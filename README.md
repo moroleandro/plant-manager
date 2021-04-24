@@ -33,8 +33,6 @@ $ yarn install
 # Start the project
 $ expo start
 
-# Start API
-$ json-server ./src/services/server.json --host [YOU-IP-LOCAL] --port 3333
 ```
 
 ## 📝 Autor

@@ -48,7 +48,7 @@ export function MyPlants() {
             );
 
             setNextWatered(
-                `Não esqueça de regar a ${plantsStoraged[0].name} às ${nextTime}`
+                `Não esqueça de regar a ${plantsStoraged[0].name} à ${nextTime}`
             )
 
             setMyPlants(plantsStoraged);
