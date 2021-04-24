@@ -1,5 +1,7 @@
 # Plant Manager
 
+<p>App to always remember to water your plants 🌱</p>
+
 <br>
 
 <p align="center">
@@ -30,14 +32,10 @@ $ yarn install
 
 # Start the project
 $ expo start
+
+# Start API
+$ json-server ./src/services/server.json --host [YOU-IP-LOCAL] --port 3333
 ```
-
-## 💻 Project
-
-App to always remember to water your plants 🌱
-
-This is a project developed during the **[Next Level Week](https://nextlevelweek.com/)**, presented by **[@Rocketseat](https://github.com/Rocketseat)**
-
 
 ## 📝 Autor
 [@moroleandro](https://github.com/moroleandro) 👋
